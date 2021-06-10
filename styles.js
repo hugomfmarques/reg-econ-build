@@ -49,6 +49,42 @@ module.exports = exports;
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css":
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??embedded!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css ***!
+  \**************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, "/**\r\n * Owl Carousel v2.3.4\r\n * Copyright 2013-2018 David Deutsch\r\n * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE\r\n */\r\n.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}\r\n.owl-carousel{display:none;width:100%;z-index:1}\r\n.owl-carousel .owl-stage{position:relative;touch-action:manipulation;-moz-backface-visibility:hidden}\r\n.owl-carousel .owl-stage:after{content:\".\";display:block;clear:both;visibility:hidden;line-height:0;height:0}\r\n.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}\r\n.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}\r\n.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}\r\n.owl-carousel .owl-item img{display:block;width:100%}\r\n.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}\r\n.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}\r\n.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;-webkit-user-select:none;user-select:none}\r\n.owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot{background:0 0;color:inherit;border:none;padding:0!important;font:inherit}\r\n.owl-carousel.owl-loading{opacity:0;display:block}\r\n.owl-carousel.owl-hidden{opacity:0}\r\n.owl-carousel.owl-refresh .owl-item{visibility:hidden}\r\n.owl-carousel.owl-drag .owl-item{touch-action:pan-y;-webkit-user-select:none;user-select:none}\r\n.owl-carousel.owl-grab{cursor:move;cursor:grab}\r\n.owl-carousel.owl-rtl{direction:rtl}\r\n.owl-carousel.owl-rtl .owl-item{float:right}\r\n.owl-carousel .animated{animation-duration:1s;animation-fill-mode:both}\r\n.owl-carousel .owl-animated-in{z-index:0}\r\n.owl-carousel .owl-animated-out{z-index:1}\r\n.owl-carousel .fadeOut{animation-name:fadeOut}\r\n@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}\r\n.owl-height{transition:height .5s ease-in-out}\r\n.owl-carousel .owl-item .owl-lazy{transition:opacity .4s ease}\r\n.owl-carousel .owl-item .owl-lazy:not([src]),.owl-carousel .owl-item .owl-lazy[src^=\"\"]{max-height:0}\r\n.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}\r\n.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}\r\n.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}\r\n.owl-carousel .owl-video-play-icon:hover{transform:scale(1.3,1.3)}\r\n.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}\r\n.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}\r\n.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}", "",{"version":3,"sources":["owl.carousel.min.css"],"names":[],"mappings":"AAAA;;;;EAIE;AACF,sCAAsC,uCAAuC,CAAC,iBAAiB;AAAC,cAAc,YAAY,CAAC,UAAU,CAAC,SAAS;AAAC,yBAAyB,iBAAiB,CAAwB,yBAAyB,CAAC,+BAA+B;AAAC,+BAA+B,WAAW,CAAC,aAAa,CAAC,UAAU,CAAC,iBAAiB,CAAC,aAAa,CAAC,QAAQ;AAAC,+BAA+B,iBAAiB,CAAC,eAAe,CAAC,oCAAoC;AAAC,mDAAmD,kCAAkC,CAAC,+BAA+B,CAAC,8BAA8B,CAAC,oCAAoC,CAAC,iCAAiC,CAAC,gCAAgC;AAAC,wBAAwB,cAAc,CAAC,UAAU,CAAC,kCAAkC,CAAC,0BAA0B;AAAC,4BAA4B,aAAa,CAAC,UAAU;AAAC,iEAAiE,YAAY;AAAC,8CAA8C,aAAa;AAAC,yFAAyF,cAAc,CAAC,wBAAwB,CAAoE,gBAAgB;AAAC,2GAA2G,cAAc,CAAC,aAAa,CAAC,WAAW,CAAC,mBAAmB,CAAC,YAAY;AAAC,0BAA0B,SAAS,CAAC,aAAa;AAAC,yBAAyB,SAAS;AAAC,oCAAoC,iBAAiB;AAAC,iCAAwD,kBAAkB,CAAC,wBAAwB,CAA4C,gBAAgB;AAAC,uBAAuB,WAAW,CAAC,WAAW;AAAC,sBAAsB,aAAa;AAAC,gCAAgC,WAAW;AAAC,wBAAwB,qBAAqB,CAAC,wBAAwB;AAAC,+BAA+B,SAAS;AAAC,gCAAgC,SAAS;AAAC,uBAAuB,sBAAsB;AAAC,mBAAmB,GAAG,SAAS,CAAC,KAAK,SAAS,CAAC;AAAC,YAAY,iCAAiC;AAAC,kCAAkC,2BAA2B;AAAC,wFAAwF,YAAY;AAAC,qCAAqC,2BAA2B;AAAC,iCAAiC,iBAAiB,CAAC,WAAW,CAAC,eAAe;AAAC,mCAAmC,iBAAiB,CAAC,WAAW,CAAC,UAAU,CAAC,QAAQ,CAAC,OAAO,CAAC,iBAAiB,CAAC,gBAAgB,CAAC,4CAA4C,CAAC,cAAc,CAAC,SAAS,CAAC,kCAAkC,CAAC,6BAA6B;AAAC,yCAAsE,wBAAwB;AAAC,qGAAqG,YAAY;AAAC,4BAA4B,SAAS,CAAC,WAAW,CAAC,iCAAiC,CAAC,2BAA2B,CAAC,uBAAuB,CAAC,2BAA2B;AAAC,+BAA+B,iBAAiB,CAAC,SAAS,CAAC,WAAW,CAAC,UAAU","file":"owl.carousel.min.css","sourcesContent":["/**\r\n * Owl Carousel v2.3.4\r\n * Copyright 2013-2018 David Deutsch\r\n * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE\r\n */\r\n.owl-carousel,.owl-carousel .owl-item{-webkit-tap-highlight-color:transparent;position:relative}.owl-carousel{display:none;width:100%;z-index:1}.owl-carousel .owl-stage{position:relative;-ms-touch-action:pan-Y;touch-action:manipulation;-moz-backface-visibility:hidden}.owl-carousel .owl-stage:after{content:\".\";display:block;clear:both;visibility:hidden;line-height:0;height:0}.owl-carousel .owl-stage-outer{position:relative;overflow:hidden;-webkit-transform:translate3d(0,0,0)}.owl-carousel .owl-item,.owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0)}.owl-carousel .owl-item{min-height:1px;float:left;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}.owl-carousel .owl-item img{display:block;width:100%}.owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled{display:none}.no-js .owl-carousel,.owl-carousel.owl-loaded{display:block}.owl-carousel .owl-dot,.owl-carousel .owl-nav .owl-next,.owl-carousel .owl-nav .owl-prev{cursor:pointer;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot{background:0 0;color:inherit;border:none;padding:0!important;font:inherit}.owl-carousel.owl-loading{opacity:0;display:block}.owl-carousel.owl-hidden{opacity:0}.owl-carousel.owl-refresh .owl-item{visibility:hidden}.owl-carousel.owl-drag .owl-item{-ms-touch-action:pan-y;touch-action:pan-y;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.owl-carousel.owl-grab{cursor:move;cursor:grab}.owl-carousel.owl-rtl{direction:rtl}.owl-carousel.owl-rtl .owl-item{float:right}.owl-carousel .animated{animation-duration:1s;animation-fill-mode:both}.owl-carousel .owl-animated-in{z-index:0}.owl-carousel .owl-animated-out{z-index:1}.owl-carousel .fadeOut{animation-name:fadeOut}@keyframes fadeOut{0%{opacity:1}100%{opacity:0}}.owl-height{transition:height .5s ease-in-out}.owl-carousel .owl-item .owl-lazy{transition:opacity .4s ease}.owl-carousel .owl-item .owl-lazy:not([src]),.owl-carousel .owl-item .owl-lazy[src^=\"\"]{max-height:0}.owl-carousel .owl-item img.owl-lazy{transform-style:preserve-3d}.owl-carousel .owl-video-wrapper{position:relative;height:100%;background:#000}.owl-carousel .owl-video-play-icon{position:absolute;height:80px;width:80px;left:50%;top:50%;margin-left:-40px;margin-top:-40px;background:url(owl.video.play.png) no-repeat;cursor:pointer;z-index:1;-webkit-backface-visibility:hidden;transition:transform .1s ease}.owl-carousel .owl-video-play-icon:hover{-ms-transform:scale(1.3,1.3);transform:scale(1.3,1.3)}.owl-carousel .owl-video-playing .owl-video-play-icon,.owl-carousel .owl-video-playing .owl-video-tn{display:none}.owl-carousel .owl-video-tn{opacity:0;height:100%;background-position:center center;background-repeat:no-repeat;background-size:contain;transition:opacity .4s ease}.owl-carousel .owl-video-frame{position:relative;z-index:1;height:100%;width:100%}"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css":
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??embedded!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css ***!
+  \*******************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+exports.push([module.i, "/**\r\n * Owl Carousel v2.3.4\r\n * Copyright 2013-2018 David Deutsch\r\n * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE\r\n */\r\n.owl-theme .owl-dots,.owl-theme .owl-nav{text-align:center;-webkit-tap-highlight-color:transparent}\r\n.owl-theme .owl-nav{margin-top:10px}\r\n.owl-theme .owl-nav [class*=owl-]{color:#FFF;font-size:14px;margin:5px;padding:4px 7px;background:#D6D6D6;display:inline-block;cursor:pointer;border-radius:3px}\r\n.owl-theme .owl-nav [class*=owl-]:hover{background:#869791;color:#FFF;text-decoration:none}\r\n.owl-theme .owl-nav .disabled{opacity:.5;cursor:default}\r\n.owl-theme .owl-nav.disabled+.owl-dots{margin-top:10px}\r\n.owl-theme .owl-dots .owl-dot{display:inline-block;zoom:1}\r\n.owl-theme .owl-dots .owl-dot span{width:10px;height:10px;margin:5px 7px;background:#D6D6D6;display:block;-webkit-backface-visibility:visible;transition:opacity .2s ease;border-radius:30px}\r\n.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{background:#869791}", "",{"version":3,"sources":["owl.theme.default.min.css"],"names":[],"mappings":"AAAA;;;;EAIE;AACF,yCAAyC,iBAAiB,CAAC,uCAAuC;AAAC,oBAAoB,eAAe;AAAC,kCAAkC,UAAU,CAAC,cAAc,CAAC,UAAU,CAAC,eAAe,CAAC,kBAAkB,CAAC,oBAAoB,CAAC,cAAc,CAAC,iBAAiB;AAAC,wCAAwC,kBAAkB,CAAC,UAAU,CAAC,oBAAoB;AAAC,8BAA8B,UAAU,CAAC,cAAc;AAAC,uCAAuC,eAAe;AAAC,8BAA8B,oBAAoB,CAAC,MAAM;AAAC,mCAAmC,UAAU,CAAC,WAAW,CAAC,cAAc,CAAC,kBAAkB,CAAC,aAAa,CAAC,mCAAmC,CAAC,2BAA2B,CAAC,kBAAkB;AAAC,mFAAmF,kBAAkB","file":"owl.theme.default.min.css","sourcesContent":["/**\r\n * Owl Carousel v2.3.4\r\n * Copyright 2013-2018 David Deutsch\r\n * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE\r\n */\r\n.owl-theme .owl-dots,.owl-theme .owl-nav{text-align:center;-webkit-tap-highlight-color:transparent}.owl-theme .owl-nav{margin-top:10px}.owl-theme .owl-nav [class*=owl-]{color:#FFF;font-size:14px;margin:5px;padding:4px 7px;background:#D6D6D6;display:inline-block;cursor:pointer;border-radius:3px}.owl-theme .owl-nav [class*=owl-]:hover{background:#869791;color:#FFF;text-decoration:none}.owl-theme .owl-nav .disabled{opacity:.5;cursor:default}.owl-theme .owl-nav.disabled+.owl-dots{margin-top:10px}.owl-theme .owl-dots .owl-dot{display:inline-block;zoom:1}.owl-theme .owl-dots .owl-dot span{width:10px;height:10px;margin:5px 7px;background:#D6D6D6;display:block;-webkit-backface-visibility:visible;transition:opacity .2s ease;border-radius:30px}.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{background:#869791}"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/styles.css":
 /*!*********************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??embedded!./src/styles.css ***!
@@ -60,7 +96,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n@font-face {\n  font-family: Montserrat;\n  src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');\n}\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;AAC9E;EACE,iBAAiB;EACjB,iBAAiB;EACjB,oBAAoB;;EAEpB,qBAAqB;EACrB;AACF;AAEA;EACE,uBAAuB;EACvB,4EAA4E;AAC9E;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n\n@font-face {\n  font-family: Montserrat;\n  src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');\n}\n\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\n\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --color3: #29889D;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n\n\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n\n\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;;AAG9E;EACE,iBAAiB;EACjB,iBAAiB;EACjB,iBAAiB;EACjB,oBAAoB;;EAEpB,qBAAqB;EACrB;AACF;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --color3: #29889D;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -169,6 +205,68 @@ function toComment(sourceMap) {
   var data = "sourceMappingURL=data:application/json;charset=utf-8;base64,".concat(base64);
   return "/*# ".concat(data, " */");
 }
+
+/***/ }),
+
+/***/ "./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css":
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css ***!
+  \*****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../../../../css-loader/dist/cjs.js??ref--12-1!../../../../postcss-loader/src??embedded!./owl.carousel.min.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+var exported = content.locals ? content.locals : {};
+
+
+
+module.exports = exported;
+
+/***/ }),
+
+/***/ "./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css":
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css ***!
+  \**********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../../../../style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../../../../css-loader/dist/cjs.js??ref--12-1!../../../../postcss-loader/src??embedded!./owl.theme.default.min.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+var exported = content.locals ? content.locals : {};
+
+
+
+module.exports = exported;
 
 /***/ }),
 
@@ -484,14 +582,16 @@ module.exports = exported;
 /***/ }),
 
 /***/ 2:
-/*!******************************************************************************!*\
-  !*** multi ./src/styles.css ./node_modules/bootstrap/dist/css/bootstrap.css ***!
-  \******************************************************************************/
+/*!*******************************************************************************************************************************************************************************************************************************************************!*\
+  !*** multi ./src/styles.css ./node_modules/bootstrap/dist/css/bootstrap.css ./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css ./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Dados\Desktop\regional economics\my-website\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! E:\Dados\Desktop\regional economics\my-website\node_modules\bootstrap\dist\css\bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/bootstrap/dist/css/bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css");
+module.exports = __webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css");
 
 
 /***/ })
