@@ -96,7 +96,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\n\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --color3: #29889D;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n\n\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n\n\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;;AAG9E;EACE,iBAAiB;EACjB,iBAAiB;EACjB,iBAAiB;EACjB,oBAAoB;;EAEpB,qBAAqB;EACrB;AACF;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n\n:root {\n  --color1: #1B485B;\n  --color2: #9DCFE3;\n  --color3: #29889D;\n  --colorText: #A5A5A5;\n\n  --section1: #A5A5A51A;\n  --section2: #FFFFFF\n}\n\n.section-odd {\n  background-color: var(--section1);\n  min-height: 540px;\n}\n\n.section-even {\n  background-color: var(--section2);\n  min-height: 540px;\n}\n"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\r\n\r\n\r\n:root {\r\n  --color1: #1B485B;\r\n  --color2: #9DCFE3;\r\n  --color3: #29889D;\r\n  --colorText: #A5A5A5;\r\n\r\n  --section1: #A5A5A51A;\r\n  --section2: #FFFFFF\r\n}\r\n\r\n\r\n.section-odd {\r\n  background-color: var(--section1);\r\n  min-height: 540px;\r\n}\r\n\r\n\r\n.section-even {\r\n  background-color: var(--section2);\r\n  min-height: 540px;\r\n}\r\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;;AAG9E;EACE,iBAAiB;EACjB,iBAAiB;EACjB,iBAAiB;EACjB,oBAAoB;;EAEpB,qBAAqB;EACrB;AACF;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB;;;AAEA;EACE,iCAAiC;EACjC,iBAAiB;AACnB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\r\n\r\n\r\n:root {\r\n  --color1: #1B485B;\r\n  --color2: #9DCFE3;\r\n  --color3: #29889D;\r\n  --colorText: #A5A5A5;\r\n\r\n  --section1: #A5A5A51A;\r\n  --section2: #FFFFFF\r\n}\r\n\r\n.section-odd {\r\n  background-color: var(--section1);\r\n  min-height: 540px;\r\n}\r\n\r\n.section-even {\r\n  background-color: var(--section2);\r\n  min-height: 540px;\r\n}\r\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -588,10 +588,10 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/src/styles.css */"./src/styles.css");
-__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/bootstrap/dist/css/bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
-__webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css");
-module.exports = __webpack_require__(/*! /Users/hugomarques/Desktop/projetos/reg-econ-project/node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css");
+__webpack_require__(/*! E:\Dados\Desktop\regional economics\reg-econ-project\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! E:\Dados\Desktop\regional economics\reg-econ-project\node_modules\bootstrap\dist\css\bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! E:\Dados\Desktop\regional economics\reg-econ-project\node_modules\ngx-owl-carousel-o\lib\styles\prebuilt-themes\owl.carousel.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel.min.css");
+module.exports = __webpack_require__(/*! E:\Dados\Desktop\regional economics\reg-econ-project\node_modules\ngx-owl-carousel-o\lib\styles\prebuilt-themes\owl.theme.default.min.css */"./node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css");
 
 
 /***/ })
